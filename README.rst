@@ -1,10 +1,24 @@
-|Build Status|
+Origami optimization
+====================
 
-* `Latest built documentation`_
+Optimization algorithms for origami patterns.
+
+License
+-------
+
+Code under MIT License.
+
+References
+------------
+
+- Chen, Y., Yan, J., Feng, J., & Sareh, P. (2020). Particle Swarm
+  Optimization-Based Metaheuristic Design Generation of Non-Trivial Flat-Foldable
+  Origami Tessellations With Degree-4 Vertices. Journal of Mechanical Design,
+  143(011703). https://doi.org/10.1115/1.4047437
+
+- Chen, Y., Fan, L., Bai, Y., Feng, J., & Sareh, P. (2020).
+  Assigning mountain-valley fold lines of flat-foldable origami patterns
+  based on graph theory and mixed-integer linear programming.
+  Computers & Structures, 239, 106328. https://doi.org/10.1016/j.compstruc.2020.106328
 
 
-.. |Build Status| image:: Where is your documentation builded ?/badge/icon
-.. _`Source code on Gitlab`: https://github.com/AppliedMechanics-EAFIT/origami_opt
-.. _`Latest built documentation`: https://artifacts.frimastudio.com/artifactory/frima-docs/com/frimastudio/origami_opt/origin/master/index.html
-
-http://jenkins.frimastudio.com/job/UserSandbox/job/edevost/job/vfx_cleaning_tools/icon
